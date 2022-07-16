@@ -1,4 +1,4 @@
-module demo1
+module urlencode_go
 
 go 1.18
 
